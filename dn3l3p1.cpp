@@ -12,7 +12,7 @@ int main()
 	student s1;
 	cout<<"Enter the student name			:";
 	getline(cin,name);
-	cout<<"Enter the student standrd		:";
+	cout<<"Enter the student standard		:";
 	cin>>s1.std;
 	cout<<"Enter the student percentage		:";
 	cin>>s1.per;
