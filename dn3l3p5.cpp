@@ -25,4 +25,5 @@ int main()
 	Distance a;
 	a.get_Distance();
 	a.display_Distance();
+	return 0;
 }
